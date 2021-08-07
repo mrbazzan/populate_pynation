@@ -1,0 +1,12 @@
+
+script.py
+misc.txt
+
+.idea/
+
+venv
+
+_pycache__/
+
+*.pyc
+*.db
